@@ -1,0 +1,6 @@
+{
+  "name": "Python Syllabus Revision Lab",
+  "description": "Interactive revision sandbox, matrix workbench, and linear regression simulator covering core Python, NumPy, and regression theory syllabus questions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
